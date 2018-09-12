@@ -1,0 +1,16 @@
+.sqr {
+
+    border: 1px solid black;
+    margin: auto;
+    height: 1000px;
+    width: 1000px;
+    position: relative;
+    
+}
+
+.box{
+    position: absolute;
+    /* width: 3px;
+    height: 6px; */
+    
+}
